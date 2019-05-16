@@ -1,2 +1,0 @@
-# ATMGenerator
-performs ATM operations
